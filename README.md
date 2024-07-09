@@ -13,7 +13,8 @@ A simple web application that extracts the video URLs from a specified YouTube c
 http://genchannelurls.unaux.com/
 
 ## How to Use
-
+You can use website or implement on your local machine. 
+### Steps to Implement
 1. Clone the repository to your local machine.
 
     ```bash
