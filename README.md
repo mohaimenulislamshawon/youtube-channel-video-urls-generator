@@ -1,4 +1,4 @@
-# YouTube Video URL Extractor
+# Extract & Copy Video Links from a YouTube Channel 
 
 A simple web application that extracts the video URLs from a specified YouTube channel. This project is built with PHP, HTML, CSS, and JavaScript.
 
