@@ -12,8 +12,7 @@ A simple web application that extracts the video URLs from a specified YouTube c
 ## Website
 http://genchannelurls.unaux.com/
 
-## Demo Video
-[Watch the demo video](https://github.com/mohaimenulislamshawon/youtube-channel-video-urls-generator/raw/main/example-yt-channal-video-links-generator.webm)
+[example-yt-channal-video-links-generator.webm](https://github.com/mohaimenulislamshawon/youtube-channel-video-urls-generator/assets/79521107/82d4224a-11ea-48c4-b5b5-2d59148f23fa)
 
 ## How to Use
 You can use website or implement on your local machine. 
